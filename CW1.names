@@ -1,0 +1,15 @@
+pd1_name = ["Zhang, Angela", "Zheng, Edwin", "Zheng, Renggeng"]
+pd2_name = ["Doe, John", "Smith, John", "Zaaa, Test"]
+
+pd = input("What period?")
+pd = int(pd)
+
+name_index = input("What number from 0? ")
+name_index = int(name_index)
+
+if pd == 1:
+print("Name: " + pd1_name[name_index])
+else
+print("Name: " + pd2_name[name_index])
+
+
