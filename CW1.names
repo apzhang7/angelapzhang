@@ -1,3 +1,6 @@
+#Angela Zhang 
+#SoftDev CW1 -- Class Names (prints first and last names from both periods)
+
 pd1_name = ["Zhang, Angela", "Zheng, Edwin", "Zheng, Renggeng"] #list of names
 pd2_name = ["Doe, John", "Smith, John", "Zaaa, Test"]
 
